@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=latex 2021.3.28)  25 APR 2021 16:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=latex 2021.3.28)  26 APR 2021 09:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1320,11 +1320,11 @@ Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
 \ESO@tempdima=\dimen417
 \ESO@tempdimb=\dimen418
 )
-
-Package gitinfo2 Warning: I can't find the file '.git/gitHeadInfo.gin'.
-(gitinfo2)                All git metadata has been set to '(None)'.
-
-) (d:/texlive/2020/texmf-dist/tex/latex/units/nicefrac.sty
+Package gitinfo2 Info: gitinfo2 found : ../.git/gitHeadInfo.gin
+(gitinfo2)              on input line 128.
+ (../.git/gitHeadInfo.gin) (d:/texlive/2020/texmf-dist/tex/latex/gitinfo2/gitexinfo.sty
+Package: gitexinfo 2015/11/22 v2.0.7 Auxiliary package for gitinfo2
+)) (d:/texlive/2020/texmf-dist/tex/latex/units/nicefrac.sty
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
 \L@UnitsRaiseDisplaystyle=\skip101
 \L@UnitsRaiseTextstyle=\skip102
@@ -1810,10 +1810,10 @@ File: figures/17.eps Graphic file (type eps)
  <figures/17.eps>
 File: figures/18.eps Graphic file (type eps)
  <figures/18.eps> [20] [21] [22] [23]
-File: figures/19.eps Graphic file (type eps)
- <figures/19.eps>
 File: figures/20.eps Graphic file (type eps)
- <figures/20.eps> [24] [25]
+ <figures/20.eps>
+File: figures/24.eps Graphic file (type eps)
+ <figures/24.eps> [24] [25]
 File: figures/21.eps Graphic file (type eps)
  <figures/21.eps>
 File: figures/22.eps Graphic file (type eps)
@@ -1842,12 +1842,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 50223 strings out of 479015
- 1068457 string characters out of 5863112
- 1690157 words of memory out of 5000000
- 66650 multiletter control sequences out of 15000+600000
+ 50268 strings out of 479015
+ 1069227 string characters out of 5863112
+ 1691902 words of memory out of 5000000
+ 66694 multiletter control sequences out of 15000+600000
  439124 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,9n,117p,2367b,886s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on slides.dvi (27 pages, 352064 bytes).
+Output written on slides.dvi (27 pages, 351932 bytes).
