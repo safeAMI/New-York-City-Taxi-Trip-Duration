@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.28)  25 APR 2021 20:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.28)  26 APR 2021 09:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1402,37 +1402,54 @@ File: figures/16-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/16-eps-converted-to.pdf  used on input line 16
 1.
 (pdftex.def)             Requested size: 575.75179pt x 384.63751pt.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 196.
-
-Overfull \hbox (8.43329pt too wide) in paragraph at lines 196--196
- [] 
- []
-
-
-Overfull \hbox (16.30641pt too wide) in paragraph at lines 272--272
-[]
- []
-
-LaTeX Font Info:    Trying to load font information for T1+cmtl on input line 2
-72.
-(d:/texlive/2020/texmf-dist/tex/latex/cmbright/t1cmtl.fd
-File: t1cmtl.fd 2005/04/13 v8.1 (WaS)
-)
-Overfull \hbox (8.43329pt too wide) in paragraph at lines 272--272
- [] 
- []
-
-
-Overfull \hbox (8.43329pt too wide) in paragraph at lines 272--272
- [] 
- []
-
-
-Overfull \hbox (6.62892pt too wide) in paragraph at lines 272--272
-[]$[]$  $[]$
- []
-
+Package epstopdf Info: Source file: <figures/26.eps>
+(epstopdf)                    date: 2021-04-26 09:12:40
+(epstopdf)                    size: 223379 bytes
+(epstopdf)             Output file: <figures/26-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-26 09:17:34
+(epstopdf)                    size: 21566 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/26-eps-converted-t
+o.pdf figures/26.eps>
+(epstopdf)             \includegraphics on input line 206.
+Package epstopdf Info: Output file is already uptodate.
+<figures/26-eps-converted-to.pdf, id=49, 487.8225pt x 799.98875pt>
+File: figures/26-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/26-eps-converted-to.pdf>
+Package pdftex.def Info: figures/26-eps-converted-to.pdf  used on input line 20
+6.
+(pdftex.def)             Requested size: 243.91064pt x 399.9934pt.
+Package epstopdf Info: Source file: <figures/25.eps>
+(epstopdf)                    date: 2021-04-26 09:10:38
+(epstopdf)                    size: 711503 bytes
+(epstopdf)             Output file: <figures/25-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-26 09:17:36
+(epstopdf)                    size: 74637 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/25-eps-converted-t
+o.pdf figures/25.eps>
+(epstopdf)             \includegraphics on input line 206.
+Package epstopdf Info: Output file is already uptodate.
+<figures/25-eps-converted-to.pdf, id=50, 556.0775pt x 551.05875pt>
+File: figures/25-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/25-eps-converted-to.pdf>
+Package pdftex.def Info: figures/25-eps-converted-to.pdf  used on input line 20
+6.
+(pdftex.def)             Requested size: 500.46512pt x 495.94827pt.
+Package epstopdf Info: Source file: <figures/23.eps>
+(epstopdf)                    date: 2021-04-25 15:46:16
+(epstopdf)                    size: 29882 bytes
+(epstopdf)             Output file: <figures/23-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-26 08:48:50
+(epstopdf)                    size: 12998 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/23-eps-converted-t
+o.pdf figures/23.eps>
+(epstopdf)             \includegraphics on input line 291.
+Package epstopdf Info: Output file is already uptodate.
+<figures/23-eps-converted-to.pdf, id=51, 1191.45125pt x 116.435pt>
+File: figures/23-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/23-eps-converted-to.pdf>
+Package pdftex.def Info: figures/23-eps-converted-to.pdf  used on input line 29
+1.
+(pdftex.def)             Requested size: 476.57207pt x 46.57317pt.
 Package epstopdf Info: Source file: <logos/tulip-wordmark.eps>
 (epstopdf)                    date: 2021-01-30 00:46:22
 (epstopdf)                    size: 370272 bytes
@@ -1442,21 +1459,21 @@ Package epstopdf Info: Source file: <logos/tulip-wordmark.eps>
 (epstopdf)                    size: 29111 bytes
 (epstopdf)             Command: <repstopdf --outfile=logos/tulip-wordmark-eps-c
 onverted-to.pdf logos/tulip-wordmark.eps>
-(epstopdf)             \includegraphics on input line 344.
+(epstopdf)             \includegraphics on input line 352.
 Package epstopdf Info: Output file is already uptodate.
 <logos/tulip-wordmark-eps-converted-to.pdf, id=52, 954.56625pt x 160.6pt>
 File: logos/tulip-wordmark-eps-converted-to.pdf Graphic file (type pdf)
 <use logos/tulip-wordmark-eps-converted-to.pdf>
 Package pdftex.def Info: logos/tulip-wordmark-eps-converted-to.pdf  used on inp
-ut line 344.
+ut line 352.
 (pdftex.def)             Requested size: 682.86613pt x 114.88693pt.
 
-Overfull \hbox (0.53442pt too wide) in paragraph at lines 344--344
+Overfull \hbox (0.53442pt too wide) in paragraph at lines 352--352
  [][] 
  []
 
 
-Overfull \hbox (5.52335pt too wide) in paragraph at lines 344--344
+Overfull \hbox (5.52335pt too wide) in paragraph at lines 352--352
 []$[]$ $[]$ 
  []
 
@@ -1464,33 +1481,30 @@ Overfull \hbox (5.52335pt too wide) in paragraph at lines 344--344
 
 {d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figures/two-e
 ps-converted-to.pdf> <./figures/nine-eps-converted-to.pdf> <./figures/13-eps-co
-nverted-to.pdf> <./figures/16-eps-converted-to.pdf> <./logos/tulip-wordmark-eps
--converted-to.pdf>] (./poster.aux)
+nverted-to.pdf> <./figures/16-eps-converted-to.pdf> <./figures/26-eps-converted
+-to.pdf> <./figures/25-eps-converted-to.pdf> <./figures/23-eps-converted-to.pdf
+> <./logos/tulip-wordmark-eps-converted-to.pdf>] (./poster.aux)
 Package rerunfilecheck Info: File `poster.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 27553 strings out of 479014
- 541322 string characters out of 5863086
- 1080534 words of memory out of 5000000
- 44446 multiletter control sequences out of 15000+600000
- 496016 words of font info for 89 fonts, out of 8000000 for 9000
+ 27523 strings out of 479014
+ 540961 string characters out of 5863086
+ 1062516 words of memory out of 5000000
+ 44420 multiletter control sequences out of 15000+600000
+ 485141 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,130p,514b,2007s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{d:/texl
-ive/2020/texmf-dist/fonts/enc/dvips/kurier/sy-kurier.enc}{d:/texlive/2020/texmf
--dist/fonts/enc/dvips/kurier/mi-kurier.enc}{d:/texlive/2020/texmf-dist/fonts/en
-c/dvips/kurier/ts1-kurier.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/kurie
-r/rm-kurier.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/kurier/ec-kurier-sc
-.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/kurier/ec-kurier.enc}<d:/texli
-ve/2020/texmf-dist/fonts/type1/nowacki/kurier/kurierb.pfb><d:/texlive/2020/texm
-f-dist/fonts/type1/nowacki/kurier/kurierr.pfb><d:/texlive/2020/texmf-dist/fonts
-/type1/nowacki/kurier/kurierri.pfb><d:/texlive/2020/texmf-dist/fonts/type1/publ
-ic/cm-super/sfbtl10.pfb>
-Output written on poster.pdf (1 page, 262825 bytes).
+ 128i,10n,130p,514b,1464s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/texlive/2020/texmf-dist/fonts/enc/dvips/kurier/ts1-kurier.enc}{d:/texlive
+/2020/texmf-dist/fonts/enc/dvips/kurier/rm-kurier.enc}{d:/texlive/2020/texmf-di
+st/fonts/enc/dvips/kurier/ec-kurier-sc.enc}{d:/texlive/2020/texmf-dist/fonts/en
+c/dvips/kurier/ec-kurier.enc}<d:/texlive/2020/texmf-dist/fonts/type1/nowacki/ku
+rier/kurierb.pfb><d:/texlive/2020/texmf-dist/fonts/type1/nowacki/kurier/kurierr
+.pfb><d:/texlive/2020/texmf-dist/fonts/type1/nowacki/kurier/kurierri.pfb>
+Output written on poster.pdf (1 page, 331107 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 108 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 2 named destinations out of 1000 (max. 500000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
 
