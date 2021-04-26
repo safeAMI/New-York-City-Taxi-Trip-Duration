@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.28)  26 APR 2021 01:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.28)  26 APR 2021 09:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1713,13 +1713,13 @@ Package epstopdf Info: Source file: <figures/20.eps>
 (epstopdf)                    size: 22121 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/20-eps-converted-t
 o.pdf figures/20.eps>
-(epstopdf)             \includegraphics on input line 215.
+(epstopdf)             \includegraphics on input line 216.
 Package epstopdf Info: Output file is already uptodate.
 <figures/20-eps-converted-to.pdf, id=164, 413.545pt x 260.975pt>
 File: figures/20-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/20-eps-converted-to.pdf>
 Package pdftex.def Info: figures/20-eps-converted-to.pdf  used on input line 21
-5.
+6.
 (pdftex.def)             Requested size: 165.41505pt x 104.38815pt.
 Package epstopdf Info: Source file: <figures/24.eps>
 (epstopdf)                    date: 2021-04-26 01:10:35
@@ -1729,13 +1729,13 @@ Package epstopdf Info: Source file: <figures/24.eps>
 (epstopdf)                    size: 24536 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/24-eps-converted-t
 o.pdf figures/24.eps>
-(epstopdf)             \includegraphics on input line 220.
+(epstopdf)             \includegraphics on input line 221.
 Package epstopdf Info: Output file is already uptodate.
 <figures/24-eps-converted-to.pdf, id=165, 531.9875pt x 333.245pt>
 File: figures/24-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/24-eps-converted-to.pdf>
 Package pdftex.def Info: figures/24-eps-converted-to.pdf  used on input line 22
-0.
+1.
 (pdftex.def)             Requested size: 212.79123pt x 133.29562pt.
 Package epstopdf Info: Source file: <logos/tulip-logo.eps>
 (epstopdf)                    date: 2021-01-30 00:46:22
@@ -1745,12 +1745,12 @@ Package epstopdf Info: Source file: <logos/tulip-logo.eps>
 (epstopdf)                    size: 21511 bytes
 (epstopdf)             Command: <repstopdf --outfile=logos/tulip-logo-eps-conve
 rted-to.pdf logos/tulip-logo.eps>
-(epstopdf)             \includegraphics on input line 233.
+(epstopdf)             \includegraphics on input line 234.
 Package epstopdf Info: Output file is already uptodate.
 File: logos/tulip-logo-eps-converted-to.pdf Graphic file (type pdf)
 <use logos/tulip-logo-eps-converted-to.pdf>
 Package pdftex.def Info: logos/tulip-logo-eps-converted-to.pdf  used on input l
-ine 233.
+ine 234.
 (pdftex.def)             Requested size: 7.92348pt x 10.79993pt.
 
 
@@ -1767,12 +1767,12 @@ Package epstopdf Info: Source file: <logos/tulip-logo.eps>
 (epstopdf)                    size: 21511 bytes
 (epstopdf)             Command: <repstopdf --outfile=logos/tulip-logo-eps-conve
 rted-to.pdf logos/tulip-logo.eps>
-(epstopdf)             \includegraphics on input line 233.
+(epstopdf)             \includegraphics on input line 234.
 Package epstopdf Info: Output file is already uptodate.
 File: logos/tulip-logo-eps-converted-to.pdf Graphic file (type pdf)
 <use logos/tulip-logo-eps-converted-to.pdf>
 Package pdftex.def Info: logos/tulip-logo-eps-converted-to.pdf  used on input l
-ine 233.
+ine 234.
 (pdftex.def)             Requested size: 7.92348pt x 10.79993pt.
 
 
@@ -1782,6 +1782,69 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 
 [7 <./figures/15-eps-converted-to.pdf> <./figures/16-eps-converted-to.pdf> <./f
 igures/17-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/21.eps>
+(epstopdf)                    date: 2021-04-25 15:46:03
+(epstopdf)                    size: 32811 bytes
+(epstopdf)             Output file: <figures/21-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-26 08:48:46
+(epstopdf)                    size: 14685 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/21-eps-converted-t
+o.pdf figures/21.eps>
+(epstopdf)             \includegraphics on input line 239.
+Package epstopdf Info: Output file is already uptodate.
+<figures/21-eps-converted-to.pdf, id=190, 1191.45125pt x 117.43875pt>
+File: figures/21-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/21-eps-converted-to.pdf>
+Package pdftex.def Info: figures/21-eps-converted-to.pdf  used on input line 23
+9.
+(pdftex.def)             Requested size: 476.57207pt x 46.97466pt.
+Package epstopdf Info: Source file: <figures/22.eps>
+(epstopdf)                    date: 2021-04-25 15:46:09
+(epstopdf)                    size: 36139 bytes
+(epstopdf)             Output file: <figures/22-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-26 08:48:48
+(epstopdf)                    size: 13782 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/22-eps-converted-t
+o.pdf figures/22.eps>
+(epstopdf)             \includegraphics on input line 240.
+Package epstopdf Info: Output file is already uptodate.
+<figures/22-eps-converted-to.pdf, id=191, 1193.45876pt x 117.43875pt>
+File: figures/22-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/22-eps-converted-to.pdf>
+Package pdftex.def Info: figures/22-eps-converted-to.pdf  used on input line 24
+0.
+(pdftex.def)             Requested size: 477.37505pt x 46.97466pt.
+Package epstopdf Info: Source file: <figures/23.eps>
+(epstopdf)                    date: 2021-04-25 15:46:16
+(epstopdf)                    size: 29882 bytes
+(epstopdf)             Output file: <figures/23-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-26 08:48:50
+(epstopdf)                    size: 12998 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/23-eps-converted-t
+o.pdf figures/23.eps>
+(epstopdf)             \includegraphics on input line 240.
+Package epstopdf Info: Output file is already uptodate.
+<figures/23-eps-converted-to.pdf, id=192, 1191.45125pt x 116.435pt>
+File: figures/23-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/23-eps-converted-to.pdf>
+Package pdftex.def Info: figures/23-eps-converted-to.pdf  used on input line 24
+0.
+(pdftex.def)             Requested size: 476.57207pt x 46.57317pt.
+
+Overfull \hbox (116.57207pt too wide) in paragraph at lines 239--241
+ [][] 
+ []
+
+
+Overfull \hbox (117.37505pt too wide) in paragraph at lines 239--241
+ [] 
+ []
+
+
+Overfull \hbox (116.57207pt too wide) in paragraph at lines 239--241
+ [] 
+ []
+
 Package epstopdf Info: Source file: <logos/tulip-logo.eps>
 (epstopdf)                    date: 2021-01-30 00:46:22
 (epstopdf)                    size: 1059122 bytes
@@ -1797,7 +1860,6 @@ File: logos/tulip-logo-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: logos/tulip-logo-eps-converted-to.pdf  used on input l
 ine 257.
 (pdftex.def)             Requested size: 7.92348pt x 10.79993pt.
-
 
 Package fancyhdr Warning: \footskip is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.79996pt, for example:
@@ -1826,7 +1888,12 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                Make it at least 14.79996pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.79996pt}.
 
-[9] (./report.bbl) (./report.tdo)
+[9 <./figures/21-eps-converted-to.pdf> <./figures/22-eps-converted-to.pdf> <./f
+igures/23-eps-converted-to.pdf>] (./report.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 8.
+
+) (./report.tdo)
 \tf@tdo=\write8
 \openout8 = `report.tdo'.
 
@@ -1855,14 +1922,14 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 No complaints by nag.
 (./report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: CA30E9E8B08E3581602CA6B766748B50;1292.
+(rerunfilecheck)             Checksum: 80A7D44DFF0CF36BB0B355A24C97A648;1226.
  ) 
 Here is how much of TeX's memory you used:
- 36255 strings out of 479014
- 699732 string characters out of 5863086
- 1344415 words of memory out of 5000000
- 52735 multiletter control sequences out of 15000+600000
- 414918 words of font info for 112 fonts, out of 8000000 for 9000
+ 36257 strings out of 479014
+ 700018 string characters out of 5863086
+ 1174457 words of memory out of 5000000
+ 52742 multiletter control sequences out of 15000+600000
+ 414458 words of font info for 111 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  133i,14n,134p,687b,779s stack positions out of 5000i,500n,10000p,200000b,80000s
 <d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/tex
@@ -1871,13 +1938,12 @@ live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><d:/texlive/202
 st/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texlive/2020/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsl10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10
-.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb><d:/t
-exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on report.pdf (10 pages, 531508 bytes).
+cm/cmsy10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.
+pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on report.pdf (10 pages, 552777 bytes).
 PDF statistics:
- 264 PDF objects out of 1000 (max. 8388607)
- 194 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
- 28936 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 263 PDF objects out of 1000 (max. 8388607)
+ 188 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 26903 words of extra memory for PDF output out of 29859 (max. 10000000)
 

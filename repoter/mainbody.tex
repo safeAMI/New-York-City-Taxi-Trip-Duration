@@ -209,7 +209,8 @@ This can improve our prediction accuracy.The distribution can be seen in Figure\
 \end{figure}
 
 \subsection{Model selection}
-There are some popular Models,such as Ridge,Bagging, Boosting,RandomForest,Lightgbm,Xgboost.In our Competition, Lightgbm and Xgboost perform best.It's result can be seen in Figure\ref{24},Figure\ref{20}.
+There are some popular Models,such as Ridge,Bagging, Boosting,RandomForest,Lightgbm,Xgboost.In our Competition, Lightgbm and Xgboost perform best.It's results can be seen in Figure\ref{24},Figure\ref{20}.
+Finally, we used these two models at the same time to fit a training data,where the superparameter of Lightgbm is 13 and the superparameter of Xgboost is 11.In the prediction phase, I give the two models 50\% of the voting rights.
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[scale=0.4]{figures/20.eps}
@@ -231,9 +232,14 @@ There are some popular Models,such as Ridge,Bagging, Boosting,RandomForest,Light
 %
 %\qwuMarker %TODO: QWu Here
 
-\section{Experiment and Analysis} \label{sec-experiment}
-
-
+\section{Experiments} \label{sec-experiment}
+I conducted a total of 18 experiments.There are three main developments.I start with a prototype that only contains latitude,whose private score is 0.59486 and public score is 0.59596.After data processing completed,the private score is 0.42527 and public score is 0.42716.After that, I introduced two models Xgboost and Lightgbm, and the prediction accuracy has also been improved. My best grade is that the private score is 0.40978 and public score is 0.41166.The results of the experiment can be seen in Figure \ref{21}
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[scale=0.4]{figures/21.eps}
+	\includegraphics[scale=0.4]{figures/22.eps}				\includegraphics[scale=0.4]{figures/23.eps}
+	\caption{ Results of experiments } \label{21}
+\end{figure}  
 %\begin{table}  \centering
 %  \caption{Precision Comparison on Event Detection Methods}
 %  \label{tbl:overall-experiments}
@@ -251,13 +257,12 @@ There are some popular Models,such as Ridge,Bagging, Boosting,RandomForest,Light
 
 
 \section{Conclusions} \label{sec-conclusions}
-
-\blindtext
+New York taxi trip duration is a prediction problem.The key part of this competition is Data processing,which largely determines the predictive ability of the model.In the process of data processing, what separates you from others is mainly your newly added attributes.In this experiment,The most important thing is your processing of latitude and longitude and the hidden attributes behind it.Model selection is the most time-consuming steps.You have to experiment many times to find the most suitable hyperparameters.
 
 \section*{Acknowledgement}
 
-\lipsum[1]
-
-
-The authors would like to thank \ldots
+%%\lipsum[1]
+%
+%
+%The authors would like to thank \ldots
 
